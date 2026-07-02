@@ -23,12 +23,11 @@ public class Object_Door : Object_Interactable
     }
     public override void Interact()
     {
-        if(opened) return;
+        if (opened) return;
         if (!player.HasKey(requiredKey)) return;
 
         opened = true;
-        anim.SetTrigger("open");
-        DisableTooltip();
+        DestroyTooltip();
 
         StartCoroutine(OpenDoorCo());
     }
@@ -36,7 +35,7 @@ public class Object_Door : Object_Interactable
     private IEnumerator OpenDoorCo()
     {
         player.input.Player.Disable();
-        anim.SetTrigger("open");
+        anim.SetBool("open", opened);
         solidCollider.enabled = false;
         yield return new WaitForSeconds(0.5f);
 
@@ -55,6 +54,5 @@ public class Object_Door : Object_Interactable
         yield return new WaitUntil(() => director.state != PlayState.Playing);
 
         player.input.Player.Enable();
-
     }
 }

@@ -8,7 +8,7 @@ public abstract class Object_Interactable : MonoBehaviour, IInteractable
 
     protected virtual void Awake()
     {
-        interactToolTip.SetActive(false);
+        if (interactToolTip != null) interactToolTip.SetActive(false);
     }
 
     protected void OnTriggerEnter2D(Collider2D collision)
@@ -18,7 +18,7 @@ public abstract class Object_Interactable : MonoBehaviour, IInteractable
             return;
         player.currentInteractable = this;
 
-        interactToolTip.SetActive(true);
+        if (interactToolTip != null) interactToolTip.SetActive(true);
     }
 
     protected void OnTriggerExit2D(Collider2D collision)
@@ -26,12 +26,12 @@ public abstract class Object_Interactable : MonoBehaviour, IInteractable
         if (player != null && player.currentInteractable == this)
             player.currentInteractable = null;
 
-        interactToolTip.SetActive(false);
+        if (interactToolTip != null) interactToolTip.SetActive(false);
     }
 
-    protected void DisableTooltip()
+    protected void DestroyTooltip()
     {
-        interactToolTip.SetActive(false);
+        Destroy(interactToolTip);
     }
 
     public abstract void Interact();

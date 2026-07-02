@@ -17,8 +17,13 @@ public class Object_Chest : Object_Interactable
             return;
 
         opened = true;
-        anim.SetTrigger("open");
+        anim.SetBool("open", opened);
         //kasih item
-        DisableTooltip();
+        DestroyTooltip();
+    }
+
+    private void OnEnable()
+    {
+        anim.SetBool("open", opened);
     }
 }
