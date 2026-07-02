@@ -45822,7 +45822,7 @@ MonoBehaviour:
   maxHealth: 100
   attack: 20
   defense: 10
-  heal: 10
+  heal: 30
   isDefending: 0
 --- !u!114 &1973363294
 MonoBehaviour:
