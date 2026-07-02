@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 229e766f2ccb51e47a4ebe5fa5de6837, type: 3}
+  m_Name: Item data - Defense
+  m_EditorClassIdentifier: Assembly-CSharp::SO_ItemData
+  itemName: Defense
+  itemIcon: {fileID: -374601196701315732, guid: 520790ff36722e943acba7cbe8d4d83b, type: 3}
+  animatorController: {fileID: 9100000, guid: e710f02b4db01874f88d667c52abaec5, type: 2}
+  effectType: 3
+  value: 3

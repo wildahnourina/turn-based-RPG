@@ -1,0 +1,1057 @@
+fileFormatVersion: 2
+guid: 22858cfe6383f214799e7f67b972face
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3544725572582937720
+    second: Torch_Blue - Copy_0
+  - first:
+      213: -3998504584754965436
+    second: Torch_Blue - Copy_1
+  - first:
+      213: -5633739984571665757
+    second: Torch_Blue - Copy_2
+  - first:
+      213: 6253573602646716998
+    second: Torch_Blue - Copy_3
+  - first:
+      213: 5203719150098884261
+    second: Torch_Blue - Copy_4
+  - first:
+      213: -1410771929473500251
+    second: Torch_Blue - Copy_5
+  - first:
+      213: -7136205645872760371
+    second: Torch_Blue - Copy_6
+  - first:
+      213: 9017076532770430879
+    second: Torch_Blue - Copy_7
+  - first:
+      213: -8224894336565452749
+    second: Torch_Blue - Copy_8
+  - first:
+      213: 1339611481402680968
+    second: Torch_Blue - Copy_9
+  - first:
+      213: -2865022808986353401
+    second: Torch_Blue - Copy_10
+  - first:
+      213: 7935354147268409687
+    second: Torch_Blue - Copy_11
+  - first:
+      213: 5108104865252186234
+    second: Torch_Blue - Copy_12
+  - first:
+      213: 2177736151309688583
+    second: Torch_Blue - Copy_13
+  - first:
+      213: -1110024672979775138
+    second: Torch_Blue - Copy_14
+  - first:
+      213: 1895718280830110974
+    second: Torch_Blue - Copy_15
+  - first:
+      213: 1011023534192751117
+    second: Torch_Blue - Copy_16
+  - first:
+      213: -898685352903446440
+    second: Torch_Blue - Copy_17
+  - first:
+      213: -4250367991133747182
+    second: Torch_Blue - Copy_18
+  - first:
+      213: 7152079697054037377
+    second: Torch_Blue - Copy_19
+  - first:
+      213: -7225365395191553316
+    second: Torch_Blue - Copy_20
+  - first:
+      213: 1077981045092809993
+    second: Torch_Blue - Copy_21
+  - first:
+      213: 7104637244452952657
+    second: Torch_Blue - Copy_22
+  - first:
+      213: -54019237165527978
+    second: Torch_Blue - Copy_23
+  - first:
+      213: -2834015177108651582
+    second: Torch_Blue - Copy_24
+  - first:
+      213: -1485182919393041663
+    second: Torch_Blue - Copy_25
+  - first:
+      213: 621857007061346510
+    second: Torch_Blue - Copy_26
+  - first:
+      213: 4579971852558133764
+    second: Torch_Blue - Copy_27
+  - first:
+      213: 6180161999642947550
+    second: Torch_Blue - Copy_28
+  - first:
+      213: 1194473918422654045
+    second: Torch_Blue - Copy_29
+  - first:
+      213: 508186917038461307
+    second: Torch_Blue - Copy_30
+  - first:
+      213: 3857051184270455357
+    second: Torch_Blue - Copy_31
+  - first:
+      213: 848521884018868734
+    second: Torch_Blue - Copy_32
+  - first:
+      213: -2324258053504272917
+    second: Torch_Blue - Copy_33
+  - first:
+      213: -6986536131433963310
+    second: Torch_Blue - Copy_34
+  - first:
+      213: -4376297136817243608
+    second: Torch_Blue - Copy_35
+  - first:
+      213: 1908633080374861405
+    second: Torch_Blue - Copy_36
+  - first:
+      213: -4930031863591956345
+    second: Torch_Blue - Copy_37
+  - first:
+      213: -2796593136366243083
+    second: Torch_Blue - Copy_38
+  - first:
+      213: -2733219246153331902
+    second: Torch_Blue - Copy_39
+  - first:
+      213: 8172913958489419677
+    second: Torch_Blue - Copy_40
+  - first:
+      213: 6769480662158872028
+    second: Torch_Blue - Copy_41
+  - first:
+      213: 5216778382312392689
+    second: Torch_Blue - Copy_42
+  - first:
+      213: 45785146053583507
+    second: Torch_Blue - Copy_43
+  - first:
+      213: -2176723229143733476
+    second: Torch_Blue - Copy_44
+  - first:
+      213: -8488987256774553631
+    second: Torch_Blue - Copy_45
+  - first:
+      213: -53915853952607240
+    second: Torch_Blue - Copy_46
+  - first:
+      213: 7599540402000408661
+    second: Torch_Blue - Copy_47
+  - first:
+      213: -12067294361417956
+    second: Torch_Blue - Copy_48
+  - first:
+      213: -6323641122402377065
+    second: Torch_Blue - Copy_49
+  - first:
+      213: -834374765175413833
+    second: Torch_Blue - Copy_50
+  - first:
+      213: 3544476003576856219
+    second: Torch_Blue - Copy_51
+  - first:
+      213: 6386009222251708962
+    second: Torch_Blue - Copy_52
+  - first:
+      213: 9209663020443499188
+    second: Torch_Blue - Copy_53
+  - first:
+      213: 7783145147563368390
+    second: Torch_Blue - Copy_54
+  - first:
+      213: -6157962979951784725
+    second: Torch_Blue - Copy_55
+  - first:
+      213: 3284137493048179732
+    second: Torch_Blue - Copy_56
+  - first:
+      213: -3590696591998912716
+    second: Torch_Blue - Copy_57
+  - first:
+      213: -1089943196173964661
+    second: Torch_Blue - Copy_58
+  - first:
+      213: -1968211207922115573
+    second: Torch_Blue - Copy_59
+  - first:
+      213: 8029225501470475300
+    second: Torch_Blue - Copy_60
+  - first:
+      213: -2905267792865466431
+    second: Torch_Blue - Copy_61
+  - first:
+      213: -2179973646666936389
+    second: Torch_Blue - Copy_62
+  - first:
+      213: -309610069076766890
+    second: Torch_Blue - Copy_63
+  - first:
+      213: 4084688999932563206
+    second: Torch_Blue - Copy_64
+  - first:
+      213: -862196099010210161
+    second: Torch_Blue - Copy_65
+  - first:
+      213: 7146727218732485114
+    second: Torch_Blue - Copy_66
+  - first:
+      213: 3545855197968975262
+    second: Torch_Blue - Copy_67
+  - first:
+      213: -298722851007219870
+    second: Torch_Blue - Copy_68
+  - first:
+      213: 4469238151793523852
+    second: Torch_Blue - Copy_69
+  - first:
+      213: 4229736580195758357
+    second: Torch_Blue - Copy_70
+  - first:
+      213: 1299550937051925486
+    second: Torch_Blue - Copy_71
+  - first:
+      213: -7709574370968826801
+    second: Torch_Blue - Copy_72
+  - first:
+      213: -5432617058892206223
+    second: Torch_Blue - Copy_73
+  - first:
+      213: 122769611688454525
+    second: Torch_Blue - Copy_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torch_Blue_left_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0904b99d7460d04aa3118c2509856a3
+      internalID: 15108772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_1
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e032126a347a41448bf53f58da7a4b1
+      internalID: -848991502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_2
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3ed366beb5558f468c35835c2937624
+      internalID: 245858058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_3
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ff11a118728ab4482108919f91db17
+      internalID: -688134123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_4
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d262ff86ead2db4fa60ba2dbdb2f77c
+      internalID: 1871999056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_5
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6b93b566b104244a0f5b522fec17a4
+      internalID: -446506397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_6
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89ebe861b66d01408012c8334186d59
+      internalID: 447417078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186e8372a00d5a14dab5841ccd8e8773
+      internalID: -1752492766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4226a386b74f7b444ad0d8ab3070f831
+      internalID: 722315928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_9
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc6574b7fa8bfd84fa931e7aa980f9e0
+      internalID: 645251458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_10
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0d0a691061c20f4ca57b5ba8b0558ec
+      internalID: 2021961048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_11
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5df36751e000bf4e91c6db66aecd86b
+      internalID: -1821747576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 576
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff1b77e6f1f17d48b7f5a911f2304d7
+      internalID: 1630986964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e130747a1f9934fa1d7814e5ed5295
+      internalID: -1443469675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1760673eb80af4347818f1ed9258e69b
+      internalID: 1582976460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_15
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62155e2f9a3693549aa39d6531dcf86c
+      internalID: -883207911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14063bb86aaf5c440acf9c479e94972c
+      internalID: -1565258646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be182213b821f724cae247bf925b0a7f
+      internalID: -1874982415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_18
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87b64304b9a62eb4e9ffee4ac0656fcb
+      internalID: -1632480791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90ca7ad4de9c234a84877caa9a12a11
+      internalID: 1466631771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_20
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a352983b7035e428c8e0b14372d2d1
+      internalID: -1518457779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_21
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83522163af1224428136ff3c502f6f2
+      internalID: 1190249564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_22
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bdd6ddb06b058b4494e35756d171905
+      internalID: -1685849275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_23
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbb0946d14f760149ba066c04a26bbd6
+      internalID: -2056681751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 192
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624e2b4385e7a954eb595f465dd0a0cd
+      internalID: -1797041067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_25
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a481f50cdc6beb4cbb6b08eb643fed0
+      internalID: -137621631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_26
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7db6a168cf12a4d88bf8f2c21416f8
+      internalID: 1967245756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f2a7fd979bea34288b88a0e48cd398
+      internalID: -1676121769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_28
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384428554931fc848935780dbe98c307
+      internalID: 1841739944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_29
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ba44d91fcfc02448eaaf17cc224b6d
+      internalID: -806701376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torch_Blue_left_30
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24044e03c3f203c479c54d84bbce78f9
+      internalID: 860376414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: a41313c183d9a284c80ec5aacf76e324
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":192.0,"y":192.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Torch_Blue_left_0: 15108772
+      Torch_Blue_left_1: -848991502
+      Torch_Blue_left_10: 2021961048
+      Torch_Blue_left_11: -1821747576
+      Torch_Blue_left_12: 1630986964
+      Torch_Blue_left_13: -1443469675
+      Torch_Blue_left_14: 1582976460
+      Torch_Blue_left_15: -883207911
+      Torch_Blue_left_16: -1565258646
+      Torch_Blue_left_17: -1874982415
+      Torch_Blue_left_18: -1632480791
+      Torch_Blue_left_19: 1466631771
+      Torch_Blue_left_2: 245858058
+      Torch_Blue_left_20: -1518457779
+      Torch_Blue_left_21: 1190249564
+      Torch_Blue_left_22: -1685849275
+      Torch_Blue_left_23: -2056681751
+      Torch_Blue_left_24: -1797041067
+      Torch_Blue_left_25: -137621631
+      Torch_Blue_left_26: 1967245756
+      Torch_Blue_left_27: -1676121769
+      Torch_Blue_left_28: 1841739944
+      Torch_Blue_left_29: -806701376
+      Torch_Blue_left_3: -688134123
+      Torch_Blue_left_30: 860376414
+      Torch_Blue_left_4: 1871999056
+      Torch_Blue_left_5: -446506397
+      Torch_Blue_left_6: 447417078
+      Torch_Blue_left_7: -1752492766
+      Torch_Blue_left_8: 722315928
+      Torch_Blue_left_9: 645251458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
