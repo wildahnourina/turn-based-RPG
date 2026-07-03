@@ -30,6 +30,11 @@ public class Enemy : Entity
             if (Random.value < 0.5f)
                 return EnemyAction.Heal;
         }
+        if (hpPercent <= 0.6f)
+        {
+            if (Random.value < 0.3f)
+                return EnemyAction.Defense;
+        }
 
         return EnemyAction.Attack;
     }
